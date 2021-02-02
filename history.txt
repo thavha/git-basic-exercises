@@ -1,0 +1,252 @@
+    1  ls
+    2  cd desktop
+    3  cd Desktop
+    4  ls /data
+    5  ls/
+    6  ls /
+    7  pwd
+    8  mkdir learning_lunix
+    9  ls
+   10  cd learning_lunix
+   11  mkdir outer_directory
+   12  cd outer_directory
+   13  mkdir inner_directory
+   14  cd inner_directory
+   15  cd home
+   16  cd /
+   17  cd home
+   18  cd ubuntu
+   19  cd thavha@LAPTOP-7A080GO1
+   20  cd thavha
+   21  cd learbing_linux
+   22  cd learning_linux
+   23  cd learning_lunix
+   24  cd ..
+   25  /
+   26  pwd
+   27  cd /
+   28  pwd
+   29  cd ~
+   30  pwd
+   31  cd
+   32  pwd
+   33  ls -l
+   34  cd learning_lunix
+   35  ls -l
+   36  ls -R
+   37  ls -l -t -r
+   38  ls -lh
+   39  man ls
+   40  man ~
+   41  man /
+   42  man man
+   43  man less
+   44  cd outer_directory
+   45  rmkdir inner_directory
+   46  rmdir inner_directory
+   47  cd ..
+   48  rmdir outer_directory
+   49  ls
+   50  cd
+   51  cd learning_lunix/
+   52  history
+   53  git init git-basic-exercises
+   54  cd git-basic-exercises
+   55  ls -a
+   56  git status
+   57  touch README.md
+   58  ls -a
+   59  git status
+   60  git log
+   61  git add REDME.md
+   62  git add README.md
+   63  git status
+   64  git commit -m "initial commit"
+   65  git config --global user.email "thavha.tsiwana@gmail.com"
+   66  git config -- global user.name "thavha"
+   67  git config --global user.name "thavha"
+   68  git commit -m "initial commit"
+   69  git log
+   70  nano README.md
+   71  cat REDME.md
+   72  cat README.md
+   73  git status
+   74  git add README.md
+   75  git commit -m "second commit"
+   76  nano README.md
+   77  git commit -m "this is the third commit"
+   78  git add README.md
+   79  git commit -m "this is the third commit"
+   80  git log
+   81  git checkout fd5c5589ec83febccff98eb59e362766ab47efa3
+   82  cat README.md
+   83  git checkout
+   84  cat README.md
+   85  git checkout main
+   86  checkout git-basic-exercises
+   87  git branch
+   88  checkout master
+   89  git status
+   90  pwd
+   91  ls -a
+   92  cat README.md
+   93  nano README.md
+   94  ls
+   95  git branch milkshake-flavours
+   96  ls
+   97  branch
+   98  git bramch
+   99  git branch 
+  100  checkout milkshake-flavours
+  101  git checkout milkshake-flavours
+  102  git branch
+  103  nano milkshakes.md
+  104  git status
+  105  git add
+  106  git add .
+  107  git commit -m "added initial flavours"
+  108  git log
+  109  git checkout master
+  110  git branch history
+  111  git checkout history
+  112  git log
+  113  git branch 
+  114  history > history.txt
+  115  git add .
+  116  git commit -m "added history"
+  117  git log
+  118  git checkout milkshake-flavours 
+  119  git log
+  120  nano README.md
+  121  git add .
+  122  git commit -m "random chages"
+  123  git checkout history 
+  124  cat README.md
+  125  rm README.md
+  126  echo "booya" > README.md
+  127  git add . 
+  128  git commit -m "rewrote readme"
+  129  checkout
+  130  git checkout
+  131  git checkout main
+  132  git checkout master
+  133  ls
+  134  git log
+  135  git checkout milkshake-flavours 
+  136  ls
+  137  git log
+  138  git checkout history 
+  139  git log
+  140  ls
+  141  git checkout master 
+  142  git merge milkshake-flavours 
+  143  nano README.md
+  144  git status
+  145  git add README.md
+  146  git status
+  147  git commit
+  148  ls
+  149  git log
+  150  git branch
+  151  git merge history
+  152  nano README.md
+  153  git add .
+  154  git commit
+  155  ls
+  156  git log
+  157  checkout history
+  158  git checkout history
+  159  ls
+  160  git merge master
+  161  git ls
+  162  ls
+  163  git remote add origin https://github.com/thavha/git-basic-exercises.git
+  164  git branch -M main
+  165  git remote add origin https://github.com/thavha/git-basic-exercises.git
+  166  git push history
+  167  git remote add origin https://github.com/thavha/git-basic-exercises.git history
+  168  git push -u history
+  169  git push -u git-basic-exercises history
+  170  ls
+  171  branch
+  172  git branch
+  173  git push -u git-basic-exercises milkshake-flavours 
+  174  git remote add origin https://github.com/thavha/git-basic-exercises.git
+  175  git branch -M master
+  176  git push -u origin master
+  177  branch
+  178  git branch 
+  179  git branch -M milkshake-flavours 
+  180  git push -u origin milkshake-flavours 
+  181  ls
+  182  branch
+  183  git branch
+  184  git checkout history
+  185  git branch -a
+  186  git push -all
+  187  git push --all
+  188  pwd
+  189  rmdir dit-basic-exercises
+  190  rmdir git-basic-exercises
+  191  pwd
+  192  rm -all
+  193  rm
+  194  man rm
+  195  --recursive
+  196  cd /
+  197  rm -r
+  198  rm -r git-basic-exercises
+  199  ls
+  200  cd git-basic-exercises
+  201  git init thav
+  202  exit
+  203  ls
+  204  rm -r git-basic-exercises/
+  205  ls
+  206  rm -r git-basic-exercises/
+  207  y
+  208  ls
+  209  git ini git-basic-exercises
+  210  git init git-basic-exercises
+  211  cd git-basic-exercises/
+  212  ls -a
+  213  git status
+  214  touch README.md
+  215  ls
+  216  git add .
+  217  git status
+  218  git commit -m "initial commit"
+  219  nano README.md
+  220  cat README.md
+  221  git stats
+  222  git status
+  223  git add .
+  224  git status
+  225  git commit -m "second commit"
+  226  nano README.md
+  227  git add .
+  228  git commit -m "third commit"
+  229  git log
+  230  git checkout 810861d81d3240ec9c1b9428442fac63aa166ac8
+  231  cat README.md
+  232  git checkout main
+  233  git checkout master
+  234  cat README.md
+  235  git branch
+  236  git branch milkshake-flavours
+  237  git branch
+  238  checkout milksheke-flavours
+  239  git checkout milksheke-flavours
+  240  git checkout milkshake-flavours
+  241  nano milkshakes.md
+  242  git add .
+  243  git commit -m "added initial flavours"
+  244  git checkout master 
+  245  ls
+  246  git branch history
+  247  git checkout history 
+  248  ls
+  249  git branch
+  250  git status
+  251  git log
+  252  history > history.txt
